@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Image Browser</title>
+
+
+</head>
+<body>
+
+<div width ="80%" bg-color="black">
+
+</div>
+
+
+
+
+</body>
+</html>
